@@ -1,3 +1,4 @@
+
 class Garden
   attr_accessor :name
 
